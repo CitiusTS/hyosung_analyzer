@@ -7,3 +7,4 @@ Penambahan menu admin untuk update/delete secara manual dan perbaikan menu filte
 perbaikan di CDU 10
 rev ver v1.8.0 penambahan error code cdu 30 dan logo citius
 rev ver v1.8.0 penambahan error code cdu 30 dan logo citius
+perbaikan logo citius 
