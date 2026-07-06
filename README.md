@@ -5,3 +5,4 @@ rev v3 penambahan data base error code BRM 860
 perbaikan decoder v3
 Penambahan menu admin untuk update/delete secara manual dan perbaikan menu filter rev v1.7.5
 perbaikan di CDU 10
+rev ver v1.8.0 penambahan error code cdu 30
