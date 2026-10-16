@@ -2971,9 +2971,9 @@ async function smartTestAiConnection(){
 </div>
 <script>
 /* ===== REFERENSI GAMBAR LETAK ERROR =====
-   Sumber: img/index.json (di repo GitHub Pages yang sama). Kode di DB 7 karakter (mis. 516T700), sedangkan slide
+   Sumber: index.json di akar repo; gambar di folder hyosung/. Kode di DB 7 karakter (mis. 516T700), sedangkan slide
    menulis 5 karakter (516T7), jadi pencocokan memakai AWALAN kode. "@nama" = merujuk ke daftar kode di "groups". */
-const EIMG={data:null,base:'img/',cur:[],i:0};
+const EIMG={data:null,base:'',cur:[],i:0};
 function eimgEsc(t){return String(t==null?'':t).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 (function eimgLoad(){
   fetch(EIMG.base+'index.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(j=>{
