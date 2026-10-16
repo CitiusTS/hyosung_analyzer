@@ -1,0 +1,148 @@
+{
+  "groups": {
+    "5x6t7": [
+      "596T7",
+      "526T7",
+      "536T7",
+      "546T7",
+      "5A6T7",
+      "5D6T7",
+      "5B6T7",
+      "576T7",
+      "5Y6T7",
+      "5K6T7",
+      "516T7",
+      "5E6T7",
+      "5F6T7",
+      "5b6T7"
+    ],
+    "5x7x1": [
+      "52701",
+      "5D7L1",
+      "5D711",
+      "537GF",
+      "5DRL1"
+    ],
+    "5x0xe": [
+      "5A01E",
+      "5D0LE",
+      "5A002"
+    ],
+    "mid": [
+      "5301M",
+      "5A01M"
+    ],
+    "utc": [
+      "53064"
+    ]
+  },
+  "images": [
+    {
+      "src": "hyosung/5x6t7-detail-1.webp",
+      "title": "5X6T7 – Penyebab dan titik pengecekan P-Rolr",
+      "caption": "Gerakan Front Plate CSM gagal. Cek rakitan core dan karet P-Rolr (OK vs NG).",
+      "codes": [
+        "@5x6t7"
+      ]
+    },
+    {
+      "src": "hyosung/5x6t7-detail-2.webp",
+      "title": "5X6T7 – P-Rolr menyentuh sensor dan FP macet",
+      "caption": "Buka shutter, cek celah antara P-Rolr-Assy dan sensor, serta FP di posisi separasi.",
+      "codes": [
+        "@5x6t7"
+      ]
+    },
+    {
+      "src": "hyosung/5x6t7-detail-3.webp",
+      "title": "5X6T7 – Cara perbaikan",
+      "caption": "Buka shutter, angkat FP, cek karet, lalu bongkar cover-mask dan FP-motor.",
+      "codes": [
+        "@5x6t7"
+      ]
+    },
+    {
+      "src": "hyosung/bill-removal-1.webp",
+      "title": "5X7X1 / 537GF / 5DRL1 – Mengeluarkan uang tersangkut",
+      "caption": "Buka modul UTC lalu TERJE, keluarkan uang di jalur transport dan putar knob drum.",
+      "codes": [
+        "@5x7x1"
+      ]
+    },
+    {
+      "src": "hyosung/terje-lock.webp",
+      "title": "Posisi TERJE Lock (Normal vs Abnormal)",
+      "caption": "Atur PL Lock di posisi TERJE tertutup sesuai arah panah merah.",
+      "codes": [
+        "@5x7x1",
+        "@5x0xe"
+      ]
+    },
+    {
+      "src": "hyosung/te-scraper-1.webp",
+      "title": "Bongkar scraper TE (1 dari 2)",
+      "caption": "Langkah 1 sampai 3: braket, pegas, dan geser pin.",
+      "codes": [
+        "@5x7x1"
+      ]
+    },
+    {
+      "src": "hyosung/te-scraper-2.webp",
+      "title": "Bongkar scraper TE (2 dari 2)",
+      "caption": "Langkah 4 dan 5: dorong scraper keluar dari guide.",
+      "codes": [
+        "@5x7x1"
+      ]
+    },
+    {
+      "src": "hyosung/te-tape-align-1.webp",
+      "title": "Meluruskan tape TE (1 dari 2)",
+      "caption": "Cek posisi tape di drum, buat loop, lalu putar knob searah jarum jam.",
+      "codes": [
+        "@5x7x1"
+      ]
+    },
+    {
+      "src": "hyosung/te-tape-align-2.webp",
+      "title": "Meluruskan tape TE (2 dari 2)",
+      "caption": "Putar knob berlawanan arah jarum jam sampai loop tape berkurang.",
+      "codes": [
+        "@5x7x1"
+      ]
+    },
+    {
+      "src": "hyosung/mid-close.webp",
+      "title": "5301M / 5A01M – Menutup MID dengan benar",
+      "caption": "Tekan PL-Lock, buka dan tutup MID, lalu pastikan tidak ada celah (0.0 mm).",
+      "codes": [
+        "@mid"
+      ]
+    },
+    {
+      "src": "hyosung/utc-53064.webp",
+      "title": "53064 – UTC path error",
+      "caption": "Celah Bottom_Guide dan 2waygate di UTC Housing; tambah polywasher atau kikis 4 titik.",
+      "codes": [
+        "@utc"
+      ]
+    },
+    {
+      "src": "hyosung/dd-roller-csm-2.webp",
+      "title": "Bersihkan DD roller CSM – Langkah 1 dan 2",
+      "caption": "Bongkar modul CSM dan side cover kiri/kanan.",
+      "codes": []
+    },
+    {
+      "src": "hyosung/dd-roller-csm-3.webp",
+      "title": "Bersihkan DD roller CSM – Langkah 3 dan 4",
+      "caption": "Lepas dummy solenoid dan gate, lalu bersihkan DD roller dengan wet wipe.",
+      "codes": []
+    },
+    {
+      "src": "hyosung/dd-roller-mid-2.webp",
+      "title": "Bersihkan roller MID – Langkah 1 dan 2",
+      "caption": "Buat kit gage 0.10 mm dengan tisu, lalu buka BMD.",
+      "codes": []
+    }
+  ]
+}
